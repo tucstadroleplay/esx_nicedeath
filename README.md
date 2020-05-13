@@ -1,5 +1,6 @@
 # esx_nicedeath
 
+EN
 ESX plugin that makes death a little bit more configurable.
 
 This plugin has the following features:
@@ -8,6 +9,16 @@ This plugin has the following features:
 - Configurable respawn cooldown
 - Weapons, Items, Cash can be removed on death (but also kept)
 - Configurable respawn location (mt. zonah by default)
+
+NL
+ESX plugin die de dood wat meer configureerbaar maakt.
+
+Deze plugin heeft de volgende mogelijkheden:
+
+- Maakt het 'Wasted' scherm beschikbaar met de tekst 'Overleden'. Deze is aan te passen in de Config
+- Cooldown tijd in te stellen
+- Wapens, items en geld zijn aan te passen
+- Vaste spawnpunt in te stellen
 
 ## Installation
 
